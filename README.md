@@ -1,4 +1,4 @@
-utorialsNinja Automation Testing
+TutorialsNinja Automation Testing
 
 Project Overview
 
