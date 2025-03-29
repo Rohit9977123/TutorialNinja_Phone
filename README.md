@@ -2,8 +2,17 @@ TutorialsNinja Automation Testing
 
 Project Overview
 
-This project automates the testing of the TutorialsNinja demo e-commerce website using Selenium WebDriver and TestNG. The automation covers login functionality, product search, adding items to the cart, and the checkout process.
-link a google driver: (https://drive.google.com/drive/folders/1---YWAYPke_ZjbK0D0C8HxcyGVCNY0Eu?usp=sharing)
+This project automates the testing of the TutorialsNinja demo e-commerce website using Selenium WebDriver and TestNG. The automation covers the following functionalities:
+
+Login functionality
+
+Product search
+
+Adding items to the cart
+
+Checkout process
+
+Google Drive Link: (https://drive.google.com/drive/folders/1---YWAYPke_ZjbK0D0C8HxcyGVCNY0Eu?usp=sharing)
 
 Technologies Used
 
@@ -92,4 +101,6 @@ After execution, TestNG generates reports in the test-output folder, which can b
 Contact
 
 For any queries or contributions, feel free to reach out at rohitchouhankgn11@gmail.com.
+
+
 
