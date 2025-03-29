@@ -60,22 +60,15 @@ Test Scenarios
 
 Setup and Execution
 Clone the Repository
-sh
-Copy
-Edit
+
 git clone <repository_url>
 cd tutorialsninja
 Install Dependencies
-sh
-Copy
-Edit
+
 mvn clean install
 Run Tests
 Execute the test suite using:
 
-sh
-Copy
-Edit
 mvn test
 Test Reports
 📊 After execution, TestNG generates reports in the test-output folder, which can be viewed in any browser.
